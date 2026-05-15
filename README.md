@@ -93,7 +93,7 @@ olist-ecommerce-analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/olist-ecommerce-analysis.git
+git clone https://github.com/NelsonBenitez/olist-ecommerce-analysis.git
 cd olist-ecommerce-analysis
 
 # 2. Install dependencies
@@ -123,4 +123,4 @@ jupyter notebook notebooks/01_exploration.ipynb
 ## Author
 
 **Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername) · [Kaggle](https://kaggle.com/yourusername)
+[LinkedIn](www.linkedin.com/in/nelsonbenitezm) · [GitHub](https://github.com/NelsonBenitez) · 
