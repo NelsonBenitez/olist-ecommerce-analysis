@@ -79,13 +79,14 @@ olist-ecommerce-analysis/
 
 ## Key Findings
 
-*(Updated as analysis progresses)*
 
-- [ ] Funnel conversion rate: order placed → delivered
-- [ ] Top drop-off point in the funnel
-- [ ] % of revenue driven by top customer segment
-- [ ] Correlation: delivery delay vs. review score
-- [ ] Recommended segment to target for retention
+- [x] 96,470 customers analysed across 2016–2018
+- [x] Champions = 7% of customers, 13.1% of revenue
+- [x] Top 2 segments (Champions + Loyal) = 24.6% of customers, 36.2% of revenue
+- [x] Most Olist customers are one-time buyers — retention is the core business challenge
+- [x] At Risk segment: 13,339 customers, R$ 1.53M in recoverable revenue
+- [ ] Correlation: delivery delay vs. review score — (Notebook 4 in progress)
+- [ ] Business recommendations — (Notebook 5 in progress)
 
 ---
 
